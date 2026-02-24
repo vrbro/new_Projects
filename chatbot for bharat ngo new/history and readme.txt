@@ -5,3 +5,5 @@ Purpose of chatbot: first task is to create a general chat bot to task to websit
 task two: create a chatbot to take info from website and user input data to output a document
 
 task3 : make a SOP
+
+task4 : contribute weekly for progress
