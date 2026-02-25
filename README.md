@@ -8,3 +8,5 @@ macOS: If you use Homebrew, open Terminal and type brew install git.
 Or, download the .dmg file and drag Git to your Applications folder.
 Linux: Open your terminal and use your package manager.
 For example, on Ubuntu: sudo apt-get install git
+
+git remote set-url origin git@github.com:october/projects.git
